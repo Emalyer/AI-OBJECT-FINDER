@@ -1,0 +1,53 @@
+body{
+    background-size:cover;
+}
+.heading{
+    font-size:30px;
+    width:100%;
+    margin:0px;
+    background-color:plum;
+}
+.heading:hover{
+background-color:powderblue;
+font-size:40px;
+}
+#start,#numberofobjects,#status{
+    font-size:20px;
+}
+#start{
+    background-color: violet;
+}
+#start:hover{
+    font-size:30px;
+    background-color:peachpuff;
+}
+.copyright_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color: pink;
+    color:lightslategray;
+    text-align: center;
+    font-size:22px;
+}
+.copyright_footer:hover{
+    background-color: powderblue;
+    font-size:30px;
+}
+canvas{
+    border:2px solid white;
+    border-radius: 10px;
+    margin-top:130px;
+    box-shadow:5px 5px 5px white;
+    padding:10px;
+}
+.heading2{
+    font-size:30px;
+    background-color:lightpink;
+    width:250px;
+}
+#input1{
+    padding:20px;
+    width:250px;
+    border:2px solid white;
+}
